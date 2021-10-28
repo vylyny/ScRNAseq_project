@@ -4,7 +4,7 @@ library(Seurat)
 library(SeuratData)
 library(cowplot)
 library(patchwork)
-setwd("/gpfs/data/kirchhofflab/home/Chatv01_Lyny/NGS-class/FinalProject_May12/Seurat_tutorial/filtered_gene_bc_matrices")
+setwd("/gpfs/data/Chatv01_Lyny/NGS-class/FinalProject_May12/Seurat_tutorial/filtered_gene_bc_matrices")
                                   
 
 
