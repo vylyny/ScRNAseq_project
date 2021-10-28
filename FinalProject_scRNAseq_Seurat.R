@@ -166,7 +166,7 @@ for (i in 1:5){
 }
 
 
-##Volcano plot in terminal coz Rstudio not working for me! urgh
+##Volcano plot in terminal coz Rstudio did not work
 library(EnhancedVolcano)
 file.lists=c("Endothelial_cell_Ly_control_Final","Satellite_Glial_Ly_control_Final","Macrophage_Ly_control_Final",
              "Mature_Neuron_Ly_control_Final","Schwann_Cells_Ly_control_Final",
