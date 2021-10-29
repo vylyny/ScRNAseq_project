@@ -1,6 +1,6 @@
 # ScRNAseq_project
 
-I worked on this scRNAseq project as part of my 'Applying Sequencing Informatics' class. 
+I worked on this scRNAseq project as part of my 'Applying Sequencing Informatics' class, Spring 2020. 
 
 The main goals of this project were to:
 1. Characterize cell subtypes in the Superior Cervical Ganglia (SCG)
